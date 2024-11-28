@@ -1,0 +1,10 @@
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\bin\Debug\TestInspectorLib.exe.config
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\bin\Debug\TestInspectorLib.exe
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\bin\Debug\TestInspectorLib.pdb
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\obj\Debug\TestInspectorLib.csproj.AssemblyReference.cache
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\obj\Debug\TestInspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\obj\Debug\TestInsp.59C93C36.Up2Date
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\obj\Debug\TestInspectorLib.exe
+C:\Users\harve\source\repos\TestInspectorLib\TestInspectorLib\obj\Debug\TestInspectorLib.pdb
